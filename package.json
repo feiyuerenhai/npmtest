@@ -1,0 +1,19 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiyuerenhai/npmtest.git"
+  },
+  "author": "tony.yht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feiyuerenhai/npmtest/issues"
+  },
+  "homepage": "https://github.com/feiyuerenhai/npmtest#readme"
+}
